@@ -1,0 +1,9 @@
+vendor/
+
+**.vscode/*
+**__debug_bin
+
+.DS_Store
+/srv
+
+.idea
